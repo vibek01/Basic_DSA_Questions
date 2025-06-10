@@ -6,6 +6,11 @@ int main(){
     for(int i=0; i<size; i++){
         cout<<arr[i]<<" ";
     }
+    arr[5] = 6;
+    arr[6] = 7;
+    cout<<endl;
+
+
     // arr[size+1];
     arr[5] = 6;
     arr[6] = 7;

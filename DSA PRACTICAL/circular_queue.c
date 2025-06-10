@@ -12,6 +12,7 @@ int checkFull ()
         return 1;
     }
     return 0;
+    
 }
 // Here we check if the Circular queue is empty or not 
 int checkEmpty ()
